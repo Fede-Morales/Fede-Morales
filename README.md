@@ -77,13 +77,12 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
 <b> Estadisticas de Github </b>
 <br>
 
-
-<a href="https://github.com/Fede-Morales/">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fede-Morales&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Federico"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=Fede-Morales&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Fede-Morales&&show_icons=true&locale=es&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fede-Morales&locale=es&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fede-Morales&layout=compact&locale=es&theme=github_dark"/>|
 
-</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
