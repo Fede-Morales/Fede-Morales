@@ -64,21 +64,22 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
 
 <h1>Proyectos mas relevantes </h1>
 
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=APIRestSpring)]([https://github.com/Fede-Morales/APIRestSpring])
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=APIRestSpring)]([https://github.com/Fede-Morales/APIRestSpring])
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas de Github </b>
+<b> Estadisticas de Github </b>
 <br>
 
 
 <a href="https://github.com/Fede-Morales/">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fede-Morales&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fede-Morales&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Federico"/>
    <img src="https://github-readme-stats.vercel.app/api?username=Fede-Morales&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fede-Morales&line_height=20&locale=es&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mystreak"/>
 
 </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -86,7 +87,7 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
 
 
 
-## <b> Mis redes</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<b> Mis redes</b>
 <br>
 <div align='left'>
 
