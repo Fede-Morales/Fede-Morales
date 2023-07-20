@@ -30,7 +30,7 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
 
 <p align="center">
 
-- **Languages**:
+- **Lenguajes**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +45,7 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
 
 <br>
 
-- **Softwares and Tools**:
+- **Frameworks y herramientas**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -70,7 +70,7 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas de Github </b>
 <br>
 
 
