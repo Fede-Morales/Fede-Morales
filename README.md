@@ -70,7 +70,7 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=APIRestSpring)]([https://github.com/Fede-Morales/APIRestSpring])
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=APIRestSpring)]([https://github.com/Fede-Morales/APIRestSpring])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=API-SpringBoot)]([https://github.com/Fede-Morales/API-SpringBoot])
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
