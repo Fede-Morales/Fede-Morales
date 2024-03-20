@@ -41,7 +41,7 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
+	
 
 <br>
 
@@ -57,6 +57,8 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)                           
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+  
   
   
 
@@ -68,11 +70,11 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=APIRestSpring)]([https://github.com/Fede-Morales/APIRestSpring])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=PruebaJava-GrupoConsiti)]([https://github.com/Fede-Morales/PruebaJava-GrupoConsiti])
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=API-SpringBoot)]([https://github.com/Fede-Morales/API-SpringBoot])
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=CambioDeManoDeCallesOIA2013)]([https://github.com/Fede-Morales/CambioDeManoDeCallesOIA2013])
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fede-Morales&repo=Api-Vuelos-NestJs)]([https://github.com/Fede-Morales/Api-Vuelos-NestJs])
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
