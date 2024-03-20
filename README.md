@@ -57,8 +57,8 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)                           
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-  
+    ![ApacheNetbeans](https://img.shields.io/badge/ApacheNetbeans.svg?style=for-the-badge&logo=Netbeans&logoColor=white)
+    
   
   
 
