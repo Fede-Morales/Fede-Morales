@@ -57,7 +57,9 @@ Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el f
     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)                           
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-    ![ApacheNetbeans](https://img.shields.io/badge/Docker.svg?style=for-the-badge&logo=Docker&logoColor=white)
+    ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+    ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
+  
     
   
   
