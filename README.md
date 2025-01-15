@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1 align="center">Bienvenido a mi github , Soy Morales Federico</h1>
-<h3 align="center">Desarrollador FullStack Junior | Estudiante de Lic.Informatica </h3>
+<h3 align="center">Desarrollador FullStack | Estudiante de Lic.Informatica </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/federico-morales-r/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/FdMorales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -16,8 +16,7 @@
 <p>
   <em>
     Soy un estudiante de la carrera de Licenciatura en Informática, en la <a href="https://www.uno.edu.ar/"> Universidad Nacional del Oeste </a> estoy terminando el tercer año.<br>
-Egresado del programa CODO A CODO y BA multiplica, De manera autodidacta estoy estudiando diferentes tecnologias y frameworks para poder conseguir mi primer empleo en IT . <br>
-Me siento mas comodo en el backend, aún asi tengo conocimientos tambien en el front ya que aspiro a tener un puesto como desarrollador fullstack
+Egresado del programa CODO A CODO y BA multiplica, Actualmente me encuentro trabajando como programador FullStack en ColoniaSuiza
   </em> 
   <br>
 </p>
